@@ -1,2 +1,2 @@
 # CVforHuman
-In thiis file u find code for recognized human faces in Python
+In this file you will find code for recognizing human faces in Python.
